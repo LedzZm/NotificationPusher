@@ -2,7 +2,7 @@
 
 ## APNS adapter
 
-[APNS](http://developer.apple.com/library/ios/#documentation/NetworkingInternet/Conceptual/RemoteNotificationsPG/Introduction.html) adapter is used to push notification to Apple devices.
+[APNS]([http://developer.apple.com/library/ios/#documentation/NetworkingInternet/Conceptual/RemoteNotificationsPG/Introduction.html](https://developer.apple.com/documentation/usernotifications/setting-up-a-remote-notification-server)) adapter is used to push notification to Apple devices.
 
 ### Basic notification push example
 
